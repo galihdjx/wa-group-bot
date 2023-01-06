@@ -1,0 +1,14 @@
+{
+  "name": "wabot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "galih",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "git+https://github.com/pedroslopez/whatsapp-web.js#fix-buttons-list"
+  }
+}
